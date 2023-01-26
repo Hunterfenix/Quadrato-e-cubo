@@ -8,8 +8,8 @@ int main()
     c = n * n * n;
     std::cout << n
               << " al quadrato e' " 
-              << q << std::endl;
-    std::cout << n
+              << q << std::endl
+              << n
               << " al cubo e' "
               << c;
     return 0;
